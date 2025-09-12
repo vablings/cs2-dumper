@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-09-10 02:27:53.173424 UTC
+// 2025-09-12 01:16:33.406681300 UTC
 
 namespace CS2Dumper.Interfaces {
     // Module: animationsystem.dll
@@ -25,26 +25,26 @@ namespace CS2Dumper.Interfaces {
     // Module: engine2.dll
     public static class Engine2Dll {
         public const nint BenchmarkService001 = 0x5E8220;
-        public const nint BugService001 = 0x896910;
-        public const nint ClientServerEngineLoopService_001 = 0x8D7FF0;
+        public const nint BugService001 = 0x896950;
+        public const nint ClientServerEngineLoopService_001 = 0x8D8030;
         public const nint EngineGameUI001 = 0x5E5FB0;
-        public const nint EngineServiceMgr001 = 0x8D7930;
-        public const nint GameEventSystemClientV001 = 0x8D7C00;
-        public const nint GameEventSystemServerV001 = 0x8D7D20;
+        public const nint EngineServiceMgr001 = 0x8D7970;
+        public const nint GameEventSystemClientV001 = 0x8D7C40;
+        public const nint GameEventSystemServerV001 = 0x8D7D60;
         public const nint GameResourceServiceClientV001 = 0x5E8320;
         public const nint GameResourceServiceServerV001 = 0x5E8380;
-        public const nint GameUIService_001 = 0x896D40;
+        public const nint GameUIService_001 = 0x896D80;
         public const nint HostStateMgr001 = 0x5E8BC0;
         public const nint INETSUPPORT_001 = 0x5E15C0;
-        public const nint InputService_001 = 0x897030;
+        public const nint InputService_001 = 0x897070;
         public const nint KeyValueCache001 = 0x5E8C70;
-        public const nint MapListService_001 = 0x8D5FB0;
-        public const nint NetworkClientService_001 = 0x8D6140;
-        public const nint NetworkP2PService_001 = 0x8D6460;
-        public const nint NetworkServerService_001 = 0x8D65F0;
+        public const nint MapListService_001 = 0x8D5FF0;
+        public const nint NetworkClientService_001 = 0x8D6180;
+        public const nint NetworkP2PService_001 = 0x8D64A0;
+        public const nint NetworkServerService_001 = 0x8D6630;
         public const nint NetworkService_001 = 0x5E84F0;
-        public const nint RenderService_001 = 0x8D6850;
-        public const nint ScreenshotService001 = 0x8D6B00;
+        public const nint RenderService_001 = 0x8D6890;
+        public const nint ScreenshotService001 = 0x8D6B40;
         public const nint SimpleEngineLoopService_001 = 0x5E8CD0;
         public const nint SoundService_001 = 0x5E8530;
         public const nint Source2EngineToClient001 = 0x5E56E0;
@@ -52,7 +52,7 @@ namespace CS2Dumper.Interfaces {
         public const nint Source2EngineToServer001 = 0x5E57B8;
         public const nint Source2EngineToServerStringTable001 = 0x5E57E0;
         public const nint SplitScreenService_001 = 0x5E8830;
-        public const nint StatsService_001 = 0x8D6F00;
+        public const nint StatsService_001 = 0x8D6F40;
         public const nint ToolService_001 = 0x5E89F0;
         public const nint VENGINE_GAMEUIFUNCS_VERSION005 = 0x5E6040;
         public const nint VProfService_001 = 0x5E8A30;
