@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-09-12 01:16:33.406681300 UTC
+// 2025-09-14 01:01:37.257969400 UTC
 
 #![allow(non_upper_case_globals, unused)]
 
@@ -20,10 +20,6 @@ pub mod cs2_dumper {
             pub const Source2ClientConfig001: usize = 0x1DC8B70;
             pub const Source2ClientPrediction001: usize = 0x1BF23C0;
             pub const Source2ClientUI001: usize = 0x1C04B90;
-        }
-        // Module: crashhandler64.dll
-        pub mod crashhandler64_dll {
-            pub const : usize = 0xFFFF80064A540007;
         }
         // Module: engine2.dll
         pub mod engine2_dll {
@@ -188,27 +184,27 @@ pub mod cs2_dumper {
         }
         // Module: steamclient64.dll
         pub mod steamclient64_dll {
-            pub const CLIENTENGINE_INTERFACE_VERSION005: usize = 0xFFFFFFFF8BB0BEDA;
-            pub const IVALIDATE001: usize = 0x15348D8;
-            pub const SteamClient006: usize = 0x1532000;
-            pub const SteamClient007: usize = 0x1532008;
-            pub const SteamClient008: usize = 0x1532010;
-            pub const SteamClient009: usize = 0x1532018;
-            pub const SteamClient010: usize = 0x1532020;
-            pub const SteamClient011: usize = 0x1532028;
-            pub const SteamClient012: usize = 0x1532030;
-            pub const SteamClient013: usize = 0x1532038;
-            pub const SteamClient014: usize = 0x1532040;
-            pub const SteamClient015: usize = 0x1532048;
-            pub const SteamClient016: usize = 0x1532050;
-            pub const SteamClient017: usize = 0x1532058;
-            pub const SteamClient018: usize = 0x1532060;
-            pub const SteamClient019: usize = 0x1532068;
-            pub const SteamClient020: usize = 0x1532070;
-            pub const SteamClient021: usize = 0x1532078;
-            pub const SteamClient022: usize = 0x1532080;
-            pub const p2pvoice002: usize = 0x14E2D2F;
-            pub const p2pvoicesingleton002: usize = 0x150F0F0;
+            pub const CLIENTENGINE_INTERFACE_VERSION005: usize = 0xFFFFFFFF8BB1AE0A;
+            pub const IVALIDATE001: usize = 0x1549E28;
+            pub const SteamClient006: usize = 0x15474F0;
+            pub const SteamClient007: usize = 0x15474F8;
+            pub const SteamClient008: usize = 0x1547500;
+            pub const SteamClient009: usize = 0x1547508;
+            pub const SteamClient010: usize = 0x1547510;
+            pub const SteamClient011: usize = 0x1547518;
+            pub const SteamClient012: usize = 0x1547520;
+            pub const SteamClient013: usize = 0x1547528;
+            pub const SteamClient014: usize = 0x1547530;
+            pub const SteamClient015: usize = 0x1547538;
+            pub const SteamClient016: usize = 0x1547540;
+            pub const SteamClient017: usize = 0x1547548;
+            pub const SteamClient018: usize = 0x1547550;
+            pub const SteamClient019: usize = 0x1547558;
+            pub const SteamClient020: usize = 0x1547560;
+            pub const SteamClient021: usize = 0x1547568;
+            pub const SteamClient022: usize = 0x1547570;
+            pub const p2pvoice002: usize = 0x14E2FDF;
+            pub const p2pvoicesingleton002: usize = 0x15240F0;
         }
         // Module: tier0.dll
         pub mod tier0_dll {
