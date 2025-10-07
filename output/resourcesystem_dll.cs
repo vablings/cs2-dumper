@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-10-04 03:11:19.391218800 UTC
+// 2025-10-07 03:06:15.932008500 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: resourcesystem.dll
